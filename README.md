@@ -9,7 +9,7 @@
 #### Observation
 |Name|Distance|
 |----|--------|
-|Indra Gandhi|0.56694261|
+|Indra Gandhi|1.56694261|
 |Sonia Gandhi|0.74893856|
 
 
